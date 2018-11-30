@@ -1,0 +1,88 @@
+body{
+	background-color: white;
+}
+#caption {
+  width: 100%;
+  color: #fff;
+  margin: 0;
+  padding: 5px;
+  background-color: rgba(0,0,0,.5); /* asignar el color y  transparencia */
+  position: absolute;
+  bottom: 0;
+}
+.fondo 
+{
+	background-image: url(../img/imagen1.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+.fondo2 
+{
+	background-image: url(../img/imagen2.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+.fondo3 
+{
+	background-image: url(../img/imagen3.jpg);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+.nava
+{
+	background-color: transparent;
+	color: white !important;
+	transition: all 1s ease;
+}
+.nava2
+{
+	background-color: transparent; ;
+	color: white !important;
+	transition: all 1s ease;
+}
+.navbar-toggler
+{
+	background-color: white;
+}
+.img2
+{
+width: 500px;
+height: 300px;
+}
+.foot
+{
+	background-color: black;
+	color: white;
+}
+
+.icon
+{
+	width: 50px;
+	height: 50px;
+}
+.cd
+{
+text-align: left;
+}
+.color
+{
+	background-color: black;
+}
+.form-control
+{
+	background-color: transparent;
+}
+.card
+{
+	background-color: transparent;
+}
+.card-link
+{
+	color: black;
+} 
